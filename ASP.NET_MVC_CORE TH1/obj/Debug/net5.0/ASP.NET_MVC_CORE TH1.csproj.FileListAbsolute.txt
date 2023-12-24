@@ -1,0 +1,40 @@
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\appsettings.Development.json
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\appsettings.json
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.exe
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.deps.json
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.runtimeconfig.json
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.runtimeconfig.dev.json
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.dll
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ref\ASP.NET_MVC_CORE TH1.dll
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.pdb
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.Views.dll
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\bin\Debug\net5.0\ASP.NET_MVC_CORE TH1.Views.pdb
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.csproj.AssemblyReference.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.GeneratedMSBuildEditorConfig.editorconfig
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.AssemblyInfoInputs.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.AssemblyInfo.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.csproj.CoreCompileInputs.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.MvcApplicationPartsAssemblyInfo.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.RazorAssemblyInfo.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.RazorAssemblyInfo.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\staticwebassets\ASP.NET_MVC_CORE TH1.StaticWebAssets.Manifest.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\staticwebassets\ASP.NET_MVC_CORE TH1.StaticWebAssets.xml
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\scopedcss\bundle\ASP.NET_MVC_CORE TH1.styles.css
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.TagHelpers.input.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.TagHelpers.output.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.RazorCoreGenerate.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.RazorTargetAssemblyInfo.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.RazorTargetAssemblyInfo.cs
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.Views.pdb
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.dll
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ref\ASP.NET_MVC_CORE TH1.dll
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.pdb
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.genruntimeconfig.cache
+G:\TranNguyenBaoDuy\ASP.NET_MVC_CORE TH1\ASP.NET_MVC_CORE TH1\obj\Debug\net5.0\ASP.NET_MVC_CORE TH1.csproj.CopyComplete
